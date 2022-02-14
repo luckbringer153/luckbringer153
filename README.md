@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luckbringer153
+- 👋 Hi, I’m Lauren!
 - 👀 I’m interested in learning how to code, especially when it comes to databases and game design.
 - 🌱 I’m currently learning JavaScript, C#, and how to grow jalapenos.
 - 💞️ I’m looking to collaborate on a coding project that's not related to my work.
